@@ -27,6 +27,14 @@ sometimes I feel that it is impossible or too complicated to achieve something b
        <span><strong>Python</strong>
        </span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      <td width="25%" align="center">
+      <span><strong>Blender</strong>
+      </span><br><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/blender.svg">
+      <td width="25%" align="center">
+      <span><strong>Gimp</strong>
+      </span><br><br><br>
+      <img height="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F45%2FThe_GIMP_icon_-_gnome.svg%2F1200px-The_GIMP_icon_-_gnome.svg.png&f=1&nofb=1">
       </td>
     </tr>
   </tbody>
