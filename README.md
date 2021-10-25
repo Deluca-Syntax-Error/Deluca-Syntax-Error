@@ -1,7 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Deluca
 
 I am a young person who is just starting out in programming and linux.
-sometimes I feel that it is impossible or too complicated to achieve something but when I achieve it in comforting.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
