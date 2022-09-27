@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Deluca
 
-I am a young person who is just starting out in programming and linux.
+I'm a young person who is just starting out in programming and linux.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
