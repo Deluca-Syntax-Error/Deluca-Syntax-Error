@@ -1,1 +1,1 @@
-![til](https://raw.githubusercontent.com/Deluca-Syntax-Error/Deluca-Syntax-Error/refs/heads/main/giphy.gif)
+![til](https://raw.githubusercontent.com/Deluca-Syntax-Error/Deluca-Syntax-Error/refs/heads/main/key.gif)
